@@ -1,4 +1,4 @@
-# README.md
+# about.md
 **Address:** Riga, Latvia  
 **Study Program:** Information Systems  
 **Email:** hakanay102688@gmail.com  
